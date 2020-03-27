@@ -10,5 +10,3 @@ app.use(express.json());
 app.use(routes);
 
 app.listen(3333);
-
-//stopped in 35:00 24/03
